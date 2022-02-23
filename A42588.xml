@@ -1,0 +1,708 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain discourse of the mercy of having good parents With the duties of children that have such parents. Written by M.G.</title>
+            <author>Phillips, Samuel, 1690-1771.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42588</idno>
+            <idno type="STC">Wing G47A</idno>
+            <idno type="STC">ESTC R223616</idno>
+            <idno type="EEBO-CITATION">99833906</idno>
+            <idno type="PROQUEST">99833906</idno>
+            <idno type="VID">38384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42588)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1830:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain discourse of the mercy of having good parents With the duties of children that have such parents. Written by M.G.</title>
+                  <author>Phillips, Samuel, 1690-1771.</author>
+               </titleStmt>
+               <extent>[6], 90 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parent and child --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38384:1"/>
+            <p>A PLAIN DISCOURSE OF The Mercy of Having <hi>GOOD PARENTS<g ref="char:punc">▪</g>
+               </hi> With The Duties of CHILDREN that have ſuch Parents.</p>
+            <p>Written by <hi>M. G.</hi>
+            </p>
+            <q>Train up a Child in the Way that he ſhould go, and when he is old he will not depart from it,
+<bibl>
+                  <hi>Prov. 22.6.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the year 1668.</p>
+            <pb facs="tcp:38384:2" rendition="simple:additions"/>
+            <pb facs="tcp:38384:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:38384:3"/>
+            <pb facs="tcp:38384:3"/>
+            <head>To the Honourable, the Lady <hi>A. W.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Honors conſtant and chearful at<g ref="char:EOLhyphen"/>tendance to theſe plain <hi>Truths</hi> when delivered in your Family, did then incourage me in that Work, and now to preſent them to your Ho<g ref="char:EOLhyphen"/>nour; not doubting but
+<pb facs="tcp:38384:4"/>you will cordially receive the Truths, though cover<g ref="char:EOLhyphen"/>ed with an ordinary dreſs, &amp; judg of them according to the End for which they were written (which was the good of yours &amp; your ſweet Childrens Souls) and the ſincere deſires that accompany them, that they may prove effectual to that end.</p>
+            <p>What I have here writ<g ref="char:EOLhyphen"/>ten, your Honour can much more perfectly teach us by your own ex<g ref="char:EOLhyphen"/>perience, the Lord having by his gracious Providence made you the Daughter of holy Parents, who prayed
+<pb facs="tcp:38384:4"/>for you, inſtructed you, and from a Child made you acquainted with the Scriptures; and bleſſing their Endeavours made you a godly Child, and gave you the ſame <hi>unfai<g ref="char:EOLhyphen"/>ned Faith</hi> that dwelt in your Father and Mother; and made you now the gratious Mother of many ſweet Children, whom I hope the Lord will bleſs with his Grace, according to your earneſt deſires and endeavours. Be incoura<g ref="char:EOLhyphen"/>raged to truſt God with them, &amp; to believe that he will bleſs them (being your Children, and the Grand-children
+<pb facs="tcp:38384:5"/>of thoſe eminent godly Perſons) and bring them to know him, that they may be bleſſed for ever. Now the Lord bleſs you, and the fruit of your Womb, that all your chil<g ref="char:EOLhyphen"/>dren may fear him, &amp; grant that his grace may run in your Family for ever; and that you and all yours may be eternally happy, ſhall be the prayers of him that de<g ref="char:EOLhyphen"/>ſires an Intereſt in your prayers, and ſhall for ever be, Madam,</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 1.</date>
+               </dateline>
+               <signed>Your Honours moſt faithful obliged Servant, <hi>M. G.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:38384:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Tim. 1.5.</hi>
+                  </bibl>
+                  <p>When I call to remembrance the unfained Faith that is in thee, which dwelt firſt in thy Grandmother Lois, and thy Mother Eunice, and I am perſwaded in thee alſo.</p>
+               </q>
+            </epigraph>
+            <head>
+               <hi>CHAP. I.</hi> The Text opened and an Obſervation raiſed and proved.</head>
+            <p>THe words (you ſee) are a part of <hi>Pauls</hi> Epiſtle to <hi>Timothy</hi> (his Son in the faith, 1 <hi>Tim.</hi> 1.2.) which words may
+<pb n="2" facs="tcp:38384:6"/>be conſidered in two re<g ref="char:EOLhyphen"/>ſpects:</p>
+            <p>Firſt, Relatively, and that either, 1. In reſpect of the words foregoing, and then they are the cauſe of <hi>Pauls</hi> Joy in the fourth verſe, <hi>Paul</hi> remembring the unfained faith of <hi>Timothy,</hi> was filled with Joy: From whence ob<g ref="char:EOLhyphen"/>ſerve,</p>
+            <p>
+               <hi>That Believers do excee<g ref="char:EOLhyphen"/>dingly rejoyce (eſpecially thoſe that have been Inſtruments of their Converſion) when they ſee the Reality of Grace in the Souls of others.</hi> Or,</p>
+            <p>Secondly, They may be conſidered in relation to the following words, and ſo they are the reaſon of that Exhor<g ref="char:EOLhyphen"/>tation
+<pb n="3" facs="tcp:38384:6"/>in the ſixth verſe, from which you may obſerve theſe two things:</p>
+            <p n="1">
+               <label>1 Obſerv.</label> 
+               <hi>Paul had not exhorted Timothy to preach to others, but that he was per<g ref="char:EOLhyphen"/>ſwaded of his unfained faith.</hi>
+            </p>
+            <p n="2">
+               <label>2 Obſerv.</label> 
+               <hi>Before you teach others, you muſt ſee that you have unfained Faith your ſelves.</hi>
+            </p>
+            <p>Secondly, Poſitively, as they are in themſelves; and then the words contain theſe two things:</p>
+            <p n="1">1. <hi>Pauls</hi> remembring the unfained Faith of <hi>Timothy.</hi>
+            </p>
+            <p n="2">2. That it dwelt firſt in his Grandmother and Mother, which he mentions, firſt for
+<pb n="4" facs="tcp:38384:7"/>the comfort of <hi>Timothy,</hi> and his eſtabliſhment; and ſe<g ref="char:EOLhyphen"/>condly for the honour of the Family. The end of the whole Diſcourſe is to comfort and ſtrengthen <hi>Timothy,</hi> and to prepare him for the following Exhortations.</p>
+            <p>I ſhall now open the words.</p>
+            <p>
+               <hi>Call to remembrance]</hi> That is, When I think of, or re<g ref="char:EOLhyphen"/>member thy faith.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>nfained Faith]</hi> That is, real or ſincere faith, faith without diſſimulation: You have the ſame word uſed in ſeveral places, as 1 <hi>Tim.</hi> 1 5. <hi>Of faith unfained,</hi> that is, not hypocritical: 2 <hi>Cor.</hi> 6.6. <hi>By Love unfained,</hi> that is, ſin<g ref="char:EOLhyphen"/>cere Love. So 1 <hi>Pet.</hi> 1.22. <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>fained Love.</hi> And <hi>Rom.</hi> 12.9.
+<pb n="5" facs="tcp:38384:7"/>
+               <hi>Love without Diſſimulation,</hi> or pure Love; the ſame is ſpoken of the Wiſdom of Chriſtians, <hi>Jam.</hi> 3.17. with<g ref="char:EOLhyphen"/>out Hypocriſie. So that you ſee that the word notes a real ſincere Faith, without hypo<g ref="char:EOLhyphen"/>criſie or diſſimulation.</p>
+            <p>
+               <hi>Which dwelt,</hi> &amp;c.] Not the ſame numerical faith, but the ſame ſpecifical or kind of faith; as if he had ſaid, Thy Grandmother <hi>Lois,</hi> and thy Mother <hi>Eunice,</hi> had the ſame ſincere unfained faith.</p>
+            <p>From the words thus open<g ref="char:EOLhyphen"/>ed, I ſhall raiſe ſeveral Ob<g ref="char:EOLhyphen"/>ſervations.</p>
+            <p>The firſt ſhall be from the Apoſtles mentioning the faith of his Grandmother and Mo<g ref="char:EOLhyphen"/>ther: Whence obſerve,</p>
+            <pb n="6" facs="tcp:38384:8"/>
+            <p>Obſer. 1. <hi>It is a very great Mercy to be the Child of God<g ref="char:EOLhyphen"/>ly Parents, of ſuch as have unfained Faïth.</hi>
+            </p>
+            <p>And that for theſe follow<g ref="char:EOLhyphen"/>ing Reaſons.</p>
+            <div type="reason">
+               <head>The firſt Reaſon.</head>
+               <p>It is a great mercy to be the Children of believing Pa<g ref="char:EOLhyphen"/>rents, becauſe there are many Promiſes made to ſuch, which they may lay hold on, and plead with God; and it is a very great mercy to have a Promiſe to plead with God: but the Seed of the Righteous have ſuch Promiſes; <hi>Exod.</hi> 20.6. <hi>But ſhewing Mercy to thouſands of them that love me and keep my Command<g ref="char:EOLhyphen"/>ments:</hi>
+                  <pb n="7" facs="tcp:38384:8"/>That is, the Lord will be merciful to the Children of thoſe that love him. So <hi>Iſa.</hi> 44.3. <hi>I will pour my Spirit upon thy ſeed, and my bleſſing upon thine Off-ſpring.</hi> The Righteous may plead this Promiſe for their Children, and ſo may their Children for themſelves; and is not this a great mercy? You might have been the Children of ſuch as have an intereſt in nothing but curſes, upon them and their Seed; but you have bleſſed Promiſes to plead with God. Therefore it is a great Mercy to be the Children of Godly Parents.</p>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="8" facs="tcp:38384:9"/>
+            <head>
+               <hi>CHAP. II.</hi> Reaſons to prove the <hi>Do<g ref="char:EOLhyphen"/>ctrine;</hi> Godly Parents pray for their Children, Inſtruct them in the Scripture, and incou<g ref="char:EOLhyphen"/>rage them in all good.</head>
+            <div type="reason">
+               <head>The ſecond Reaſon.</head>
+               <p>IT is a great mercy to be the Children of godly Parents, becauſe ſuch Children have many Prayers for them, and are dayly dedicated by their Parents to God; a godly Parent conſidereth the ſtate of his Child, and prays ear<g ref="char:EOLhyphen"/>neſtly for him; he cries unto God as <hi>Abraham</hi> did for his
+<pb n="9" facs="tcp:38384:9"/>Son <hi>I ſhmael; Gen.</hi> 17, 18. And <hi>Abraham</hi> ſaid unto God, <hi>O that</hi> Iſhmael <hi>might live be<g ref="char:EOLhyphen"/>fore thee!</hi> ſo ſaith a Godly Father or Mother, O that ſuch a Son or ſuch a Daughter might live before thee! and though God beſtows Graces upon ſome of their Children, yet they ſtill continue pray<g ref="char:EOLhyphen"/>ing for the reſt; as <hi>Abraham</hi> did for <hi>Iſhmael,</hi> though he had a Promiſe that the Seed of <hi>Sarah</hi> ſhould be bleſſed, <hi>Gen.</hi> 17.16. A Godly man will not ceaſe from praying till all his Children be gracious, but cryes out to God, to bleſs all his Seed, and that for ever, as 2 <hi>Sam.</hi> 7.26. <hi>Let it pleaſe thee to bleſs the Houſe of thy Servant, that it may continue for ever before thee, and with
+<pb n="10" facs="tcp:38384:10"/>thy bleſſing let the Houſe of thy Servant be bleſſed for e<g ref="char:EOLhyphen"/>ver;</hi> that is, bleſs all my Seed, for by (houſe) is meant thoſe that are born in his houſe, that have a relation to him; and he prays that as long as any of them dwell upon the Land of the Living, they may be bleſſed. So doth Godly perſons pray for their Chil<g ref="char:EOLhyphen"/>dren; is it not a great mercy to have Parents that will dai<g ref="char:EOLhyphen"/>ly offer Sacrifice for us as <hi>Job</hi> did for his Children, <hi>Job</hi> 1.5. You might have had Parents that would never have prayed for you, or if they had, had no Intereſt with God, but you have ſuch as pray often for you, it may be when you can<g ref="char:EOLhyphen"/>not or do not pray for your ſelves, and is not this a great
+<pb n="11" facs="tcp:38384:10"/>mercy? While wicked perſons dedicate their Children to the ſervice of Satan, Godly Pa<g ref="char:EOLhyphen"/>rents when God gives them Children, dedicates them to the Lord, and by Faith give them to be his Children for e<g ref="char:EOLhyphen"/>ver, as <hi>Hanna</hi> did <hi>Samuel,</hi> 1. <hi>Sam.</hi> 1.26, 27, 28. <hi>There<g ref="char:EOLhyphen"/>fore I have lent him to the Lord, as long as he liveth;</hi> That is the Child that God hath given me, I give to God, to Worſhip him for ever: Thus do all godly Parents, when God gives them Chil<g ref="char:EOLhyphen"/>dren, they give them to Wor<g ref="char:EOLhyphen"/>ſhip and ſerve God. This will appear to be a very great mercy, if you conſider how acceptable the Prayers of the Righteous are to God, <hi>The Prayers of the wicked are an
+<pb n="12" facs="tcp:38384:11"/>Abomination, but the Pray<g ref="char:EOLhyphen"/>ers of the Righteous are a ſweet ſmelling ſavour before him,</hi> Prov. 15.8. <hi>God rejecteth the Prayers of the wicked, but receives the Prayers of the Godly, the fervent Prayer of the Righteous a vaileth much with God;</hi> God is far from wicked perſons, <hi>but he hear<g ref="char:EOLhyphen"/>eth the Prayers of the Righ<g ref="char:EOLhyphen"/>teous,</hi> Prov. 15.29. Therefore it is a great mercy to be the Child of ſuch Parents.</p>
+            </div>
+            <div type="reason">
+               <head>The third Reaſon.</head>
+               <p>It is a mercy to be the Child of godly Parents, becauſe ſuch Children are Inſtructed in good things, eſpecially, in the knowledge of the Scriptures, and the Fundamentals of Re<g ref="char:EOLhyphen"/>ligion. As ſoon as the Child
+<pb n="13" facs="tcp:38384:11"/>is capable of Inſtruction, they begin to Inſtruct him, and ac<g ref="char:EOLhyphen"/>quaint him with good things, preſently fall to Inſtruct them in the Truth of God, and to make them acquainted with his mind, they readily obey that command, <hi>Deut.</hi> 6 6 7. <hi>And theſe words which I com<g ref="char:EOLhyphen"/>mand thee this day ſhall be in thy heart; and thou ſhalt teach them diligently to thy Chil<g ref="char:EOLhyphen"/>dren, and ſhalt talk of them when thou ſitteſt in thy houſe, and when thou walkeſt by the way, and when thou lieſt down, and when thou riſeſt up,</hi> Deut. 11.19. Pſal. 7.4, 5 6. that is, <hi>thou ſhalt take all opportuni<g ref="char:EOLhyphen"/>ties to Inſtruct thy Children; a wicked man that rejects the Commands of God out of his heart, is not like to teach them
+<pb n="14" facs="tcp:38384:12"/>his Children,</hi> but godly Pa<g ref="char:EOLhyphen"/>rents that hide the Commands of God in their hearts, will be ready always to teach them to their Children, the love they have to the Souls of their Children, doth oblige them ſo to do, &amp; beſides they have a love to the commands of God, that engageth them to ſpread them abroad as much as they can. They deal with their Children as godly <hi>Eunice</hi> did with her Son <hi>Timothy,</hi> make them from their Childhood to know the Scriptures, 2 <hi>Tim.</hi> 3.15. <hi>And that from a Child thou haſt known the holy Scriptures,</hi> Conſider that the Scriptures contain the whole Mind of God, and have in them every thing that con<g ref="char:EOLhyphen"/>cerns our Salvation; that
+<pb n="15" facs="tcp:38384:12"/>they are the words of Eternal Life, and that they are able to make you wiſe to Salvation, 2 <hi>Tim.</hi> 3.15. Wicked Pa<g ref="char:EOLhyphen"/>rents leave their Children in Ignorance, or Inſtruct them in Superſtition and Vanity, but the godly Inſtruct their Children in the Scriptures; Is it not then a great mercy to be the Children of ſuch Pa<g ref="char:EOLhyphen"/>rents.</p>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="16" facs="tcp:38384:13"/>
+            <head>
+               <hi>CHAP. III.</hi> They are inſtructed what ſin is, made acquainted with Chriſt, with Goſpel Du<g ref="char:EOLhyphen"/>ties, with Heaven and Hell.</head>
+            <p>GOdly Parents in inſtru<g ref="char:EOLhyphen"/>cting their Children in the Scriptures, do take ſpe<g ref="char:EOLhyphen"/>cial care to teach them the fundamentals of Religion, and thoſe Truths that are moſt ne<g ref="char:EOLhyphen"/>ceſſary to Salvation, and theſe they paticularly in<g ref="char:EOLhyphen"/>ſtructs them in; and they are ſuch as follow:</p>
+            <p n="1">I. They make them ac<g ref="char:EOLhyphen"/>quainted with ſin; they do
+<pb n="17" facs="tcp:38384:13"/>not lead them into ſin, but they teach them,</p>
+            <p>Firſt, what is ſin, that they may avoid it, they ſhew them the Law of God, and acquaint them with what is evil: They tell them that to lie is a ſin, to ſwear is a ſin, <hi>&amp;c.</hi> and bid them avoyd them: And this is a mercy.</p>
+            <p>Secondly, They do not reſt there, but they tell them alſo what an evil ſin is; they open to them the nature of ſin, that it is a tranſgreſſion of Gods holy Law, that it is that which is contrary to God. They ſhew them alſo the danger of ſinning, and the fruits and effects of it; that it is that which made God caſt our fore fathers out of Paradiſe, and it is that which made glorious
+<pb n="18" facs="tcp:38384:14"/>Angels become Devils: It is that which makes God caſt his Creatures to Hell for ever: It is that which brings all the miſery that is in the World; Sin was that that deſtroyed <hi>Sodom,</hi> and drowned the old World; and it is that that will deſtroy every one that walks in it, it is a mercy to know this betimes.</p>
+            <p>Thirdly, They acquaint their Children with their na<g ref="char:EOLhyphen"/>tural Pollution, and tell them what their condition is by ſin, that they are all under ſin, and by nature in a loſt condition, and if they do not get from that Condition, they will be undone for ever, and ſo put them upon looking after de<g ref="char:EOLhyphen"/>liverance, and is not this a great mercy; for wicked Pa<g ref="char:EOLhyphen"/>rents
+<pb n="19" facs="tcp:38384:14"/>do neither tell their Children what is ſin, nor what an evil ſin is; nor what their condition is by ſin, till they drop to Hell, therefore it is a mercy to have good Pa<g ref="char:EOLhyphen"/>rents.</p>
+            <p n="2">II. Godly Parents when they have acquainted their Children with ſin, acquaint them alſo with the Way and Means to be delivered from ſin; they tell them that there is a Fountain opened for ſin, and for uncleanneſs; and that the Lord Jeſus Chriſt came into the World to ſave his people from their ſins, <hi>Mat.</hi> 1.21. That he is able to ſave all thoſe that come to him, and will moſt certainly ſave them if they believe in him; they deſcribe the excellency of his
+<pb n="20" facs="tcp:38384:15"/>Perſon, that they may be ta<g ref="char:EOLhyphen"/>ken with him, and lay open his Offices before them, ſhewing that he hath ſatisfied for ſin, and hath conquered all the E<g ref="char:EOLhyphen"/>nemies of our Salvation, and that there is ſtrength to be had with him to overcome ſin; they are always ſpeaking to them of Chriſt and of his love to ſinners: Shewing the riches and freeneſs of his Grace, and what perfect Sal<g ref="char:EOLhyphen"/>vation is to be had; and theſe things take the hearts of their Children: whereas ma<g ref="char:EOLhyphen"/>ny Parents never ſpeak of theſe things to their Chil<g ref="char:EOLhyphen"/>dren. Therefore it is a great mercy to have good Pa<g ref="char:EOLhyphen"/>rents.</p>
+            <p n="3">III. The Children of god<g ref="char:EOLhyphen"/>ly Parents are made acquain<g ref="char:EOLhyphen"/>ted
+<pb n="21" facs="tcp:38384:15"/>with Goſpel Duties, and Ordinances, their Parents teach them, w<hi rend="sup">ch</hi> 
+               <hi>are the duties of the Goſpel,</hi> (believing and obeying) and ſhew them the neceſſity of performing them, <hi>(For he that believeth not, is condemned already)</hi> the fruit<g ref="char:EOLhyphen"/>fulneſs and pleaſure of them, and the great benefits of them; which are, Peace of Conſcience, Joy in the Holy Ghoſt, and Everlaſting Salva<g ref="char:EOLhyphen"/>tion: they acquaint them with the Ordinances, and bring them to them, and ſhew them how they muſt be per<g ref="char:EOLhyphen"/>formed, that it muſt be in Spi<g ref="char:EOLhyphen"/>rit and in Truth; that the Heart muſt be engaged in e<g ref="char:EOLhyphen"/>very duty. Many think that when they have repeated a few words, they have prayed:
+<pb n="22" facs="tcp:38384:16"/>Or when they have ſate in Church or Houſe, they have heard: Or when they have received the Bread and Wine, they have received the <hi>Lords Supper,</hi> but a godly Man teacheth his that they muſt pray with Underſtanding, and that the heart muſt be en<g ref="char:EOLhyphen"/>gaged in prayer, and that the Word and Sacrament muſt be mixed with Faith; Therefore it is a mercy to have good Pa<g ref="char:EOLhyphen"/>rents,</p>
+            <p>Fourthly, They acquaint them with Heaven and Hell, they lay the Glory of Hea<g ref="char:EOLhyphen"/>ven before them, and tell them that all Tears are wiped from the eyes of the Saints in Hea<g ref="char:EOLhyphen"/>ven, and that they enjoy God and are continually in his pre<g ref="char:EOLhyphen"/>ſence; bleſſing and praiſing
+<pb n="23" facs="tcp:38384:16"/>his Name: They tell them al<g ref="char:EOLhyphen"/>ſo, that none go thith<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r but thoſe that are Holy, and that the Way is narrow, and few enter thither, therefore they muſt ſtrive. They acquaint them alſo with Hell, and the Torments of it, that there is continually <hi>weeping and gnaſhing of teeth,</hi> that there is an Everlaſting fire: They tell them alſo, that the way is broad and many find it, and that all that do not repent of their ſins go thither, and ſo bids them take heed of ſin. Wicked parents are Ignorant, and leave their Children Ig<g ref="char:EOLhyphen"/>norant of them; Therefore it is a mercy to have godly Parents.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="24" facs="tcp:38384:17"/>
+            <head>
+               <hi>CHAP. IV.</hi> Other Reaſons: they are encouraged in good, and diſcouraged from evil; and prayed for by the godly.</head>
+            <div type="reason">
+               <head>The fourth Reaſon.</head>
+               <p>IT is a great mercy to be the Children of godly Parents, for they are exhorted to, and encouraged in every thing that is good. Good Parents do not only acquaint their Children with the commands of God, but do daily exhort them to obey them; they tell them what are their duties, and diligently perſwade them
+<pb n="25" facs="tcp:38384:17"/>to perform them, and they alſo encourage them in the performance of them: they are not ſatisfied to acquaint them with Gods mind, but ſtudy all ſorts of Arguments to perſwade them to Obedi<g ref="char:EOLhyphen"/>ence. Wicked Parents do not exhort their Children to Holi<g ref="char:EOLhyphen"/>neſs, but at beſt to ſome out<g ref="char:EOLhyphen"/>ward Forms of Religion, and if they find the power of God<g ref="char:EOLhyphen"/>lineſs in their Souls, they are apt to hate them, and inſtead of Incouraging them, they diſcourage them; Therefore it is a mercy to be the Children of godly Parents.</p>
+            </div>
+            <div type="reason">
+               <head>The fifth Reaſon.</head>
+               <p>It is a great mercy to be the Children of godly Parents; becauſe ſuch are warned a<g ref="char:EOLhyphen"/>gainſt
+<pb n="26" facs="tcp:38384:18"/>all evil, wacht over leaſt they ſhould run to evil, and always diſcouraged in whatſoever is evil: and if no<g ref="char:EOLhyphen"/>thing will do, then they cor<g ref="char:EOLhyphen"/>rect them, knowing how God uſeth to bleſs the corrections of his Children, <hi>Prov.</hi> 22.17. <hi>Correct thy Son, and he ſhall give thee reſt; yea, he ſhall give delight to thy Soul,</hi> that is, God will bleſs thy due Cor<g ref="char:EOLhyphen"/>rection, that thou ſhalt find a ſatisfactory Fruit ariſing from it, or however thou ſhalt find reſt in doing the duty: Such Parents know that the rod and reprooſs gives Wiſdom, <hi>Prov.</hi> 29.15. <hi>Therefore, rather then their Children ſhould ſpend their dayes in folly, they will give them Correction,</hi> they love the Souls of their
+<pb n="27" facs="tcp:38384:18"/>Children, and therefore ra<g ref="char:EOLhyphen"/>ther then they ſhould be loſt, they will correct them, fol<g ref="char:EOLhyphen"/>lowing the adviſe of the Spi<g ref="char:EOLhyphen"/>rit of God, <hi>Prov.</hi> 23.13, 14. <hi>With-hold not correction from the Child, for if thou beatest him with the Rod he ſhall not die; thou ſhalt beat him with the Rod and ſhall deliver his Soul from Hell;</hi> That is, God will bleſs Correction to ſave the Child, and with Correcti<g ref="char:EOLhyphen"/>on they Inſtruct them, and pray over them, they know what a danger it is to be ac<g ref="char:EOLhyphen"/>cuſtomed to ſin, and there<g ref="char:EOLhyphen"/>fore they Principle them a<g ref="char:EOLhyphen"/>gainſt ſin, and correct them for ſin, and this is a ſpecial Mercy: But wicked Parents do not diſcourage their Chil<g ref="char:EOLhyphen"/>dren, nor correct them for
+<pb n="28" facs="tcp:38384:19"/>diſpleaſing God, although they may Correct them over-much to pleaſe their own humor; Therefore it is a mercy to have good Pa<g ref="char:EOLhyphen"/>rents.</p>
+            </div>
+            <div type="reason">
+               <head>The ſixth Reaſon.</head>
+               <p>It is a great mercy to be the Children of godly Pa<g ref="char:EOLhyphen"/>rents, becauſe the Saints are continually praying for them: I ſuppoſe that god<g ref="char:EOLhyphen"/>ly Parents do go themſelves, and bring their Children to the Society of godly People, and all the Saints pray for them: Now this is a very great mercy, if you Conſider how the Saints Prayers do prevail with God, and how Of<g ref="char:EOLhyphen"/>ten
+<pb n="29" facs="tcp:38384:19"/>he hears them; and an<g ref="char:EOLhyphen"/>ſwers them. Therefore it is a mercy to be the Children of godly Parents.</p>
+            </div>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="30" facs="tcp:38384:20"/>
+            <head>
+               <hi>CHAP. V.</hi> Other <hi>Reaſons;</hi> they have holy examples to teach them, they have the be<g ref="char:EOLhyphen"/>nefit of their Fathers ex<g ref="char:EOLhyphen"/>pertences, they are in Scripture called Bleſſed.</head>
+            <div type="reason">
+               <head>The ſeventh Reaſon.</head>
+               <p>IT is a great mercy to be the Children of Godly Parents, becauſe ſuch have holy Examples laid before them: Good Parents take ſpecial care to ſay no ſtumb<g ref="char:EOLhyphen"/>bling-block before their chil<g ref="char:EOLhyphen"/>dren, but live up to the in<g ref="char:EOLhyphen"/>ſt uction they give them<g ref="char:punc">▪</g> They labour to be an exam<g ref="char:EOLhyphen"/>ple
+<pb n="31" facs="tcp:38384:20"/>to their children in word, avoiding all vain and fooliſh words; in converſation, wal<g ref="char:EOLhyphen"/>king holily according to the commands of God; in Cha<g ref="char:EOLhyphen"/>rity, that is, full of love and pity to poor creatures; living peaceably with all, in ſpirit, upright and ſincere in ſpirit, full of zeal and fervency, in faith, having an holy unfained faith; in purity, being pure in all their carriages, 1 <hi>Tim.</hi> 4.12. So <hi>Prov.</hi> 29.7. <hi>The juſt man walketh in his integrity, his Children are bleſſed after him:</hi> His upright walking, and holy practices conduceth to their happineſs.</p>
+               <p>And further, they take care to bring their Children to ſuch places and companies as may give them holy exam<g ref="char:EOLhyphen"/>ples;
+<pb n="32" facs="tcp:38384:21"/>and there is nothing conduceth more to work good on others, than holy ex<g ref="char:EOLhyphen"/>amples; eſpecially the holy examples of Parents conduce to the good of their Chil<g ref="char:EOLhyphen"/>dren: Wicked Parents give evil examples to their chil<g ref="char:EOLhyphen"/>dren, they ſwear, curſe, lie, cheat, ſlight the Ordinances of God, drink to exceſs, riot, hate and perſecute Gods chil<g ref="char:EOLhyphen"/>dren, and run to all m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nner of wickedneſs, keep wicked company, and thereby teach their Children to do ſo alſo; therefore it is a mercy to be the Children of good Pa<g ref="char:EOLhyphen"/>rents.</p>
+            </div>
+            <div type="reason">
+               <head>The eighth Reaſon.</head>
+               <p>The Children of godly Pa<g ref="char:EOLhyphen"/>rents are in Scripture called
+<pb n="33" facs="tcp:38384:21"/>Bleſſed; therefore it is a mer<g ref="char:EOLhyphen"/>cy to be ſuch children, <hi>Prov.</hi> 20.7. <hi>His Children are bleſ<g ref="char:EOLhyphen"/>ſed after him.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <head>The Ninth Reaſon.</head>
+               <p>It is a great mercy to be the children of good Parents, becauſe ſuch enjoy the bene<g ref="char:EOLhyphen"/>fits of their Parents experi<g ref="char:EOLhyphen"/>ences; it is a mercy when men teach experiences: ſuch Parents will tell their children that they have tried ſin, and find it to be a great evil, that they tried the World, and found no ſatisfaction, that all the pleaſures of it are vain; that they have found much ſatisfaction, much real joy and comfort in walking with <hi>God,</hi> and in obeying his com<g ref="char:EOLhyphen"/>mands; that they have found
+<pb n="34" facs="tcp:38384:22"/>the Lord Jeſus to be a graci<g ref="char:EOLhyphen"/>ous Soul-ſatisfying Redeem<g ref="char:EOLhyphen"/>er; they tell them that they <hi>never ſaw the Righteous for<g ref="char:EOLhyphen"/>ſaken, nor his ſeed begging bread,</hi> Pſal. 37.25. They tell them what joy and pleaſure they have found in holineſs; and experiences are very pre<g ref="char:EOLhyphen"/>valent to perſwade Souls. Wicked Parents have no ſuch experiences to teach their Children, therefore it is a mercy to be the child of good Parents.</p>
+            </div>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="35" facs="tcp:38384:22"/>
+            <head>
+               <hi>CHAP. VI.</hi> Other <hi>Reaſons;</hi> they have ſuch as make Conſcience of providing for them, they are both ſpared and rewarded for their Pa<g ref="char:EOLhyphen"/>rents good; their eſtates got honeſtly.</head>
+            <div type="reason">
+               <head>The Tenth Reaſon.</head>
+               <p>TO be the Children of Godly Parents, is a great mercy, becauſe ſuch make conſcience of providing for the good of their childrens Souls and Bodies; they are conſcienciouſly bound to educate their Children in the fear of God, and to match
+<pb n="36" facs="tcp:38384:23"/>and ſettle them ſo as they may be incouraged in thoſe hings: And ſo alſo to provide for their bodies to breed them in honeſt Callings, and to leave them as much outward E<g ref="char:EOLhyphen"/>ſtates as they can, they are conſcienciouſly bound to Im<g ref="char:EOLhyphen"/>prove their Eſtates in an honeſt way for for their Chil<g ref="char:EOLhyphen"/>dren, <hi>Prov.</hi> 13.22. <hi>A Good man leaveth an Inheritance to his Children; ſtrives ſo to do; however his Holineſs and Sincerity is an Inheritance to them;</hi> Believers conſider that place ſeriouſly, 1 <hi>Tim.</hi> 5.8. <hi>But if any provide not for his own; and eſpecially to thoſe of his own houſe, (or kindred) he hath denied the Faith, and is worſe than an Infidel;</hi> In<g ref="char:EOLhyphen"/>fidels have a natural tye on
+<pb n="37" facs="tcp:38384:23"/>them to provide for their Families, but Believers have both a Natural and Conſci<g ref="char:EOLhyphen"/>entious tye to provide for theirs; Therefore it is a mercy to be the Children of ſuch.</p>
+            </div>
+            <div type="reason">
+               <head>The eleventh Reaſon.</head>
+               <p>It is a great mercy to have godly Parents, becauſe God oftentimes rewards Children for the good of their Pa<g ref="char:EOLhyphen"/>rents, and with-holds Judg<g ref="char:EOLhyphen"/>ments from ſeizing upon them, upon the account of their Parents, <hi>Lev.</hi> 26.42. <hi>I will remember my Covenant with</hi> Jacob, <hi>and I will reme<g ref="char:EOLhyphen"/>ber the Land,</hi> verſe 44. <hi>and I will not caſt them away, nei<g ref="char:EOLhyphen"/>ther will I destroy them utter<g ref="char:EOLhyphen"/>ly; that is, upon the account
+<pb n="38" facs="tcp:38384:24"/>of their Godly fore-Fathers</hi> 1 Kings 11.34. <hi>Howbeit, I will take the whole Kingdom out of his hand, but I will make him Prince all the dayes of his life, for</hi> David <hi>my Ser<g ref="char:EOLhyphen"/>vants ſake, whom I choſe be<g ref="char:EOLhyphen"/>cauſe he kept my Commands, and my Statutes.</hi> How is a Judgment with-held, and a Mercy beſtowed upon the ac<g ref="char:EOLhyphen"/>count of the Godlineſs of a Father? ſo 2 <hi>Kings</hi> 10.30. <hi>Becauſe thou hast done well in executing that which is right in mine eyes, thy Children to the fourth Generation, ſhall ſit on the Throne of</hi> Iſrael: ſo <hi>Prov.</hi> 20.7. <hi>The Juſt man walketh in his Integrity, his Children are bleſſed after him: that is on the account of his In<g ref="char:EOLhyphen"/>tegrity.</hi> Perſonal goodneſs is
+<pb n="39" facs="tcp:38384:24"/>a good means to bring Safe<g ref="char:EOLhyphen"/>ty, Honour, Wealth, and ma<g ref="char:EOLhyphen"/>ny comfortable bleſſings on Poſterity; Therefore it is a mercy to be the Children of ſuch.</p>
+            </div>
+            <div type="reason">
+               <head>The twelfth Reaſon.</head>
+               <p>It is a mercy to be the Chil<g ref="char:EOLhyphen"/>dren of godly Parents, be<g ref="char:EOLhyphen"/>cauſe their Eſtates come with a bleſſing, they are gotten honeſtly, and ſo God bleſſeth them; and a little with a bleſ<g ref="char:EOLhyphen"/>ſing, is better than a great deal that the wicked bath, <hi>Pſal.</hi> 3.7. <hi>A little that a Righ<g ref="char:EOLhyphen"/>teous man hath is better than the riches of many wicked: be<g ref="char:EOLhyphen"/>cauſe God bleſſeth the one, and curſeth the other; the one is got juſtly, and the other unrighte<g ref="char:EOLhyphen"/>ouſly.</hi> Prov. 15.16. <hi>Better is a little with the fear of the Lord,
+<pb n="40" facs="tcp:38384:25"/>than great Treaſures with trouble:</hi> That which is gathe<g ref="char:EOLhyphen"/>red in the fear of God, though little; is better then great Poſſeſſions got wickedly, for uſually it comes to nothing, having a Curſe going along with it: therefore it is a mer<g ref="char:EOLhyphen"/>cy to be Children of godly Parents</p>
+            </div>
+         </div>
+         <div n="7" type="chapter">
+            <pb n="41" facs="tcp:38384:25"/>
+            <head>
+               <hi>CHAP. VII.</hi> Other <hi>Reaſons;</hi> there is a curſe on the wicked and their Seed; and the chil<g ref="char:EOLhyphen"/>dren of Believers have an intereſt in the Cove<g ref="char:EOLhyphen"/>nant.</head>
+            <div type="reason">
+               <head>The thirteenth Reaſon.</head>
+               <p>'TIs a great mercy to be the Children of good <hi>Parents,</hi> becauſe the Seed of the Wicked are under a curſe, and God often-times pours down a curſe upon them, on the account of their <hi>Parents,</hi> Exod. 20.5. <hi>Viſiting the ſins of the Fathers upon the Chil<g ref="char:EOLhyphen"/>dren:</hi> As for eternal Judg<g ref="char:EOLhyphen"/>ments,
+<pb n="42" facs="tcp:38384:26"/>every one ſuffers for his own ſins; but for the Fa<g ref="char:EOLhyphen"/>thers ſins the children are of<g ref="char:EOLhyphen"/>ten puniſhed in body, in goods, and other things, which they had, and derive from their <hi>Parents,</hi> Numb. 14.33. <hi>And your Children ſhall walk in the Wilderneſs forty years, and bear your whor<g ref="char:EOLhyphen"/>doms.</hi> So 1 <hi>Sam.</hi> 15.3. <hi>Smite Amaleck and utterly deſtroy all that he hath, and ſpare them not, but ſlay both man and woman, infant and ſuck<g ref="char:EOLhyphen"/>ling, Ox and Aſs, Camel and Sheep. Amaleck</hi> ſinned, and his children ſuffer. So that you ſee it is a mercy to be the children of good <hi>Parents.</hi>
+               </p>
+               <pb n="43" facs="tcp:38384:26"/>
+            </div>
+            <div type="reason">
+               <head>The fourteenth Reaſon.</head>
+               <p>It is a great mercy to be the children of Godly Parents becauſe ſuch have an intereſt in the Covenant of Grace, the Covenant belongs to the Faith <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> their Seed, <hi>Gen.</hi> 17.7. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> will eſtabliſh my Covenant <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>een me &amp; thee, and thy Seed after thee, in their Generations, for an ever<g ref="char:EOLhyphen"/>lasting Covenant, to be a God to thee, and thy Seed after thee.</hi> Jer. 32.39. where the Cove<g ref="char:EOLhyphen"/>nant is mentioned, it is ſaid to be <hi>for the good of them, and their Seed after them.</hi> And although there are none ſa<g ref="char:EOLhyphen"/>ved but the faithful children of Believers, yet all the chil<g ref="char:EOLhyphen"/>dren of Believers have an in<g ref="char:EOLhyphen"/>tereſt
+<pb n="44" facs="tcp:38384:27"/>in the external part of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Covenant: They are to be baptiſed,
+<note place="margin">Many of Gods people are not <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> my mind in <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is, but I hope <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ey will not be <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nded with <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, for decla<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g my mind.</note> they have a foederal ho<g ref="char:EOLhyphen"/>lineſs, and that gives them a title to baptiſm, for that does ſeem to be the direct <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eaning of that place, 1 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14. <hi>For the unbel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eving <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>usband is ſanctified by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elieving Wife, and the unbe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eving Wife is ſanctified by <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Husband; elſe were your <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hildren unclean, but now are <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ey holy:</hi> This husbands ſan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ifying of the Wife, or the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fe the Husband, is not <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>ant real ſanctification, for
+<pb n="45" facs="tcp:38384:27"/>that they do not always do, though God makes them in<g ref="char:EOLhyphen"/>ſtrumental to it ſometimes; nor are their children made really holy and gracious, but faederally holy, ſo that they may be baptized; which the children of unbelievers have no title to, and this is a great mercy. Therefore it is good to haue godly Parents.</p>
+            </div>
+         </div>
+         <div n="8" type="chapter">
+            <pb n="46" facs="tcp:38384:28"/>
+            <head>
+               <hi>CHAP. VIII.</hi> Some <hi>Uſes</hi> of the Point, by way of Information and Exhortation.</head>
+            <div n="1" type="application">
+               <head>USE I.</head>
+               <p>THeſe Reaſons that I have given to prove it a great mercy to be the children of godly Parents, do contain in them the duties of Parents: Therefore let all Parents look to it, that you pray for and inſtruct your Children, and provide for them, and edu<g ref="char:EOLhyphen"/>cate them in the fear of the Lord; will it not be a ſad thing when you come to die, to
+<pb n="47" facs="tcp:38384:28"/>think that you have children that are no inſtructed in <hi>Gods</hi> ways, or to ſee your children die ignorant of Chriſt? There<g ref="char:EOLhyphen"/>fore look to it.</p>
+            </div>
+            <div n="2" type="application">
+               <head>USE II.</head>
+               <p>That we ſhould all of us take ſpecial care to bring our ſelves under the Covenant: How can any think of marry<g ref="char:EOLhyphen"/>ing, till you are married to Chriſt? and of having chil<g ref="char:EOLhyphen"/>dren, till you are ſanctified? Therefore ſtrive to be holy, that your children may have this mercy.</p>
+            </div>
+            <div n="3" type="application">
+               <head>USE III.</head>
+               <p>Let ſuch as are Parents walk holily before the Lord; lay
+<pb n="49" facs="tcp:38384:29"/>up your prayers for your chil<g ref="char:EOLhyphen"/>dren in heaven: Leave them holy examples: You have given them a ſinful nature, and have brought them to a ſinful world, do what you can to make them gracious, and and anſwer the deſire of the Spirit of God <hi>Deut.</hi> 5.29. <hi>O that there were ſuch an heart in them, that they would fear me and keep my Command<g ref="char:EOLhyphen"/>ments that it might be well with them and their children for ever.</hi>
+               </p>
+            </div>
+            <div n="4" type="application">
+               <head>USE IV.</head>
+               <p>Do not be diſcouraged to breed your children in godli<g ref="char:EOLhyphen"/>neſs, though it may ſeem con<g ref="char:EOLhyphen"/>trary to their outward profit, for the greateſt good you can
+<pb n="49" facs="tcp:38384:29"/>do them, is to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> care them, the fear of the Lord, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ov</hi> 14.26. <hi>In the fear of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord is ſtrong confidence, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his Children ſhall have R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>fuge.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="50" facs="tcp:38384:30"/>
+            <head>
+               <hi>CHAP. IX.</hi> Another <hi>Uſe;</hi> The evil of a fained <hi>Faith</hi> ſhewed in ſeveral Particulars.</head>
+            <div n="5" type="application">
+               <head>USE V.</head>
+               <p>LEt me exhort all Parents to take great care that their faith be ſincere: for as the unfained faith of Parents is a great mercy; ſo a fained faith of Parents is a great Judgement, both to them<g ref="char:EOLhyphen"/>ſelves and children: And that for theſe Reaſons:</p>
+               <div n="1" type="reason">
+                  <pb n="51" facs="tcp:38384:30"/>
+                  <head>The firſt Reaſon.</head>
+                  <p>Becauſe this brings them under a curſe: Hypocrites are accurſed, and they bring their Children under a curſe; therefore if thou loveſt the Souls of thy children, be real and ſincere.</p>
+               </div>
+               <div n="2" type="reason">
+                  <head>The ſecond Reaſon.</head>
+                  <p>Becauſe the faired faith of Parents do prejudice them againſt Religion: they ſee a contradiction in their profeſ<g ref="char:EOLhyphen"/>ſion and practices, and this prejudiceth them againſt Re<g ref="char:EOLhyphen"/>ligion; and though it will not excuſe them at laſt, yet it
+<pb n="52" facs="tcp:38384:31"/>is a great Judgement; there<g ref="char:EOLhyphen"/>fore let parents be ſure to live up to that they profeſs, or elſe they may prejudice their children againſt Godlineſs for ever.</p>
+               </div>
+               <div n="3" type="reason">
+                  <head>The third Reaſon.</head>
+                  <p>The fained faith of Parents is a great evil, for it breeds a ſearedneſs of Conſcience in them, always ſeeing nothing but the outward ſhew of Re<g ref="char:EOLhyphen"/>ligion, and being brought up onely in the outward form of it, never ſeeing any thing of the Life and Power of God<g ref="char:EOLhyphen"/>lineſs, they grow ſecure and ſeared, and this is a very great Judgement.</p>
+               </div>
+               <div n="4" type="reason">
+                  <pb n="53" facs="tcp:38384:31"/>
+                  <head>The fourth Reaſon.</head>
+                  <p>It breeds a fained faith in them, therefore it is a great Judgement to have Parents that have a fained Faith only: Hypocriſie is a Leven, (<hi>Luk.</hi> 12.10 <hi>Reware of the Leven of the Phariſees, which is Hypo<g ref="char:EOLhyphen"/>criſie</hi>) and levens a whole Family, and runs from one Generation to another; and when the Parents are hypo<g ref="char:EOLhyphen"/>critical, the children are apt to be hypocritical too.</p>
+               </div>
+               <div n="5" type="reason">
+                  <head>The fifth Reaſon.</head>
+                  <p>It is a great Judgement to have P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rents that have fained
+<pb n="54" facs="tcp:38384:32"/>faith onely, becauſe the chil<g ref="char:EOLhyphen"/>dren ſhall ſee an end of their faith, and uſually a ſad end, running to open ſin and pro<g ref="char:EOLhyphen"/>faneneſs, and this doth the children more hurt than their profeſſion did good.</p>
+                  <p>Upon all theſe accounts you ſee what reaſon <hi>Parents</hi> have to look that their faith be not fained, but real and ſincere: Try then the reallity of your faith: look to the ob<g ref="char:EOLhyphen"/>ject of it, that the things you believe be right and true, or elſe you will run your ſelf, and lead your children to an error: look to the nature of your faith, that it be ſincere and real, or elſe you deceive your ſelves, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>umble your children.</p>
+               </div>
+            </div>
+         </div>
+         <div n="10" type="chapter">
+            <pb n="55" facs="tcp:38384:32"/>
+            <head>
+               <hi>CHAP. X.</hi> Other <hi>Uſes;</hi> Such ſhould bleſs God, and labour to Improve this great Mer<g ref="char:EOLhyphen"/>cy.</head>
+            <div n="6" type="application">
+               <head>The ſixth <g ref="char:V">Ʋ</g>ſe.</head>
+               <p>LET all the Children of ſuch, admire the Provi<g ref="char:EOLhyphen"/>of God, and bleſs him for it; you might have been borne under a curſe, and have had ſuch Parents as would have neglected your Souls and Bo<g ref="char:EOLhyphen"/>dies, and have breed you in the way of ſin, and have laid wicked Examples before you, but you have Parents that
+<pb n="56" facs="tcp:38384:33"/>pray for you, inſtruct you, and lay Holy Examples be<g ref="char:EOLhyphen"/>fore you. Therefore bleſs and praiſe God for his good Pro<g ref="char:EOLhyphen"/>vidence.</p>
+            </div>
+            <div n="7" type="application">
+               <head>USE VII.</head>
+               <p>Let the Children of good Parents labour to Improve this mercy.</p>
+               <div type="directions">
+                  <head>Directions to improve this mercy.</head>
+                  <p>
+                     <label>The firſt Direction.</label> Improve this mercy by be<g ref="char:EOLhyphen"/>ing willing to be Inſtructed, pray to God for a teachable heart, take faſt hold of In<g ref="char:EOLhyphen"/>ſtruction; keep her, and let her not go, for ſhe is thy life,
+<pb n="57" facs="tcp:38384:33"/>
+                     <hi>Prov.</hi> 4.13. be not weary of Inſtruction: Read theſe fol<g ref="char:EOLhyphen"/>lowing Scriptures. <hi>Prov.</hi> 5.11, 12. and .8.33. and 12.1. and 13.18. and 15.32. Therefore be Inſtructed.</p>
+                  <p>
+                     <label>The ſecond Direction.</label> Improve this great mercy by a Cordial receiving of their lawful Commands, and Corrections; do not let thy heart riſe againſt the correcti<g ref="char:EOLhyphen"/>ons of thy Parents, but be ready to obey and ſubmit: Read theſe Scriptures, <hi>Epheſ.</hi> 6.1. <hi>Prov.</hi> 15.10. and rea<g ref="char:EOLhyphen"/>dily embrace the commands and corrections of your Pa<g ref="char:EOLhyphen"/>rents.</p>
+                  <pb n="58" facs="tcp:38384:34"/>
+                  <p>
+                     <label>The third Direction.</label> Improve the mercy, by fol<g ref="char:EOLhyphen"/>lowing their examples in what is good, as they lay Holy Ex<g ref="char:EOLhyphen"/>amples before you, ſo be you Holy in Words, Converſation and Heart; you ſee them praying much, and doing good, and hating ſin; ſo do you alſo.</p>
+                  <p>
+                     <label>The fourth Direction.</label> Improve this mercy by a<g ref="char:EOLhyphen"/>voiding all their weakneſs, covering them, knowing that they are ſuch as they will be aſhamed of, and humbled for.</p>
+                  <pb n="59" facs="tcp:38384:34"/>
+                  <p>
+                     <label>The fifth Direction.</label> Improve this mercy by be<g ref="char:EOLhyphen"/>ing thankful to your Parents, always ready to ſerve them, and help them in what you can, and by being thankful to God for them.</p>
+                  <p>
+                     <label>The ſixth Direction.</label> Improve this mercy, by ta<g ref="char:EOLhyphen"/>king care, and by uſing all diligence to get the ſame Faith, that your Parents have; And ſo I am come to the ſe<g ref="char:EOLhyphen"/>cond Obſervation.</p>
+               </div>
+            </div>
+         </div>
+         <div n="11" type="chapter">
+            <pb n="60" facs="tcp:38384:35"/>
+            <head>
+               <hi>CHAP. XI.</hi> The ſecond <hi>Obſervation,</hi> Reaſons why the Chil<g ref="char:EOLhyphen"/>dren of <hi>Believers</hi> ſhould take care to look after the ſame Faith.</head>
+            <p>I Am come now to the ſe<g ref="char:EOLhyphen"/>cond <hi>Obſervation</hi> from the Text,</p>
+            <p>
+               <hi>Obſer.</hi> 2. It ſhould be the care of the Children of godly Parents, to get the ſame un<g ref="char:EOLhyphen"/>fained Faith with their Pa<g ref="char:EOLhyphen"/>rents. This was <hi>Timothies</hi> happineſs; that he had the ſame unfained Faith with his Parents; you would not come behind your Parents in E<g ref="char:EOLhyphen"/>ſtates,
+<pb n="61" facs="tcp:38384:35"/>Honour, and the like: Be ſure then to be Good and Holy as well as them, and as you would have their Eſtates, ſo get their Holineſs, and that for thoſe Reaſons.</p>
+            <div n="1" type="reason">
+               <head>The firſt Reaſon.</head>
+               <p>Children ſhould take care to get unfained faith, becauſe the Faith of their Parents cannot ſave them, although the Faith of their Parents may bring down many outward mercies upon them, and with-hold outward Judgments from them, yet it cannot hin<g ref="char:EOLhyphen"/>der Eternal Judgments from ſeizing upon them, if they walk in ſin and iniquity, <hi>Eſau,</hi> a wicked Son of a God<g ref="char:EOLhyphen"/>ly Parent muſt go to Hell; notwithſtanding the Godli<g ref="char:EOLhyphen"/>neſs
+<pb n="62" facs="tcp:38384:36"/>of his Parents, and ſo muſt all the wicked Children of godly Parents, if they dye in their ſins, every one is ſa<g ref="char:EOLhyphen"/>ved by his own Faith; and as a wicked mans Child ſhall be ſaved if he Believe, for ſee <hi>Acts</hi> 13.39. for by him all that Believe are juſtified; whither they be the Children of wicked or good Parents; ſo no good mans Child ſhall be ſaved without Faith, ſee <hi>Joh.</hi> 3.18. <hi>He that believeth on him is not condemned, but he that believeth not, is condemned already, becauſe he believeth not on the Name of Chriſt.</hi> Whoſoever is ſaved; is ſaved by Faith, and that his own Faith; not the Faith of his Parents: Therefore let the Children of Believers uſe all
+<pb n="63" facs="tcp:38384:36"/>diligence to get the ſame un<g ref="char:EOLhyphen"/>fained Faith, with their Pa<g ref="char:EOLhyphen"/>rents.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>The ſecond Reaſon.</head>
+               <p>The Children of godly Pa<g ref="char:EOLhyphen"/>rents ſhould take care to get Faith, becauſe Faith is not en<g ref="char:EOLhyphen"/>tailed on the Children of Be<g ref="char:EOLhyphen"/>lievers, they do not convey Grace, as they do corruption on his Children, for Faith is the gift of God, and al<g ref="char:EOLhyphen"/>though godly Parents are of<g ref="char:EOLhyphen"/>ten Inſtruments of working Faith in their Children, yet it is given by the ſpecial hand of God; neither is God bound to give Grace to Children for the godlineſs of their Pa<g ref="char:EOLhyphen"/>rents, although he often San<g ref="char:EOLhyphen"/>ctifies
+<pb n="64" facs="tcp:38384:37"/>ſuch, and hears the Prayers of Parents for their Children, yet he is a free A<g ref="char:EOLhyphen"/>gent, and beſtows Grace on whom he pleaſeth; and there<g ref="char:EOLhyphen"/>fore we ſee that godly Parents ſometimes have wicked Chil<g ref="char:EOLhyphen"/>dren, and wicked Parents have godly Children, <hi>Epheſ.</hi> 1.5. <hi>Having predestinated us to the Adoption of Children by Jeſus Chriſt, according to the good pleaſure of his will;</hi> the will and pleaſure of God is the rule of his beſtowing Grace. Therefore let the Children of Believers be careful to get Faith.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>The third Reaſon.</head>
+               <p>The Children of good Parents, ſhould be care<g ref="char:EOLhyphen"/>ful
+<pb n="65" facs="tcp:38384:37"/>to get Faith, becauſe this great mercy we en<g ref="char:EOLhyphen"/>joy, (of having Parents that are godly, that p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay for us, inſtruct us, correct us, bring us to the Ordinances, and give us holy Examples) if we do not receive Inſtru<g ref="char:EOLhyphen"/>ction, increaſe our Condem<g ref="char:EOLhyphen"/>nation at laſt. Therefore be careful.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>The fourth Reaſon.</head>
+               <p>Such Children ſhould be care<g ref="char:EOLhyphen"/>ful to get Faith, for if they miſs of it, they will be without ex<g ref="char:EOLhyphen"/>cuſe, they cannot ſay but they have been offered Heaven, and called upon to walk with God for ever, they cannot ſay but they have been Inſtructed, reproved, exhorted to Good,
+<pb n="66" facs="tcp:38384:38"/>Incouraged in it, and told of the evil of ſin, and d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>horted from ſin. Therefore ſee you get grace, or elſe you will be without excuſe and miſe<g ref="char:EOLhyphen"/>rable.</p>
+            </div>
+         </div>
+         <div n="12" type="chapter">
+            <pb n="67" facs="tcp:38384:38"/>
+            <head>
+               <hi>CHAP. XII.</hi> Other Reaſons; an uſe of reproof, the ſeveral ways that godly mens Chil<g ref="char:EOLhyphen"/>dren forfeit their mercy.</head>
+            <div n="5" type="reason">
+               <head>The fifth Reaſon.</head>
+               <p>GODLY mens Children ſhould be very careful to get Faith, becauſe Satan is moſt buſie with ſuch, he ſees your Parents uſe diligence to ſave you, and ſees you are nearer Heaven, therefore he will beſtir himſelf, and uſe all means to make you miſcarry, and he is a cunning Adverſa<g ref="char:EOLhyphen"/>ry. Therefore it concerns you to be careful.</p>
+            </div>
+            <div n="6" type="reason">
+               <pb n="68" facs="tcp:38384:39"/>
+               <head>The ſixth Reaſon.</head>
+               <p>Such Children ſhould take care to get unfained Faith, becauſe they are apt to reſt in the form and outward Pro<g ref="char:EOLhyphen"/>feſſion of Religion; being bred up civilly, and not ſuf<g ref="char:EOLhyphen"/>fered to run to any outward evil, and uſed to Ordinances: Satan perſwades them they are well, and makes them reſt in a Form of Godlineſs with<g ref="char:EOLhyphen"/>out the power of it, therefore let all ſuch take care, and not truſt in the goodneſs of their Parents nor outward Profeſ<g ref="char:EOLhyphen"/>ſion, but get an unfained Faith your ſelves.</p>
+            </div>
+            <div type="application">
+               <head>
+                  <g ref="char:V">Ʋ</g>ſe.</head>
+               <p>If the Children of Godly Parents ſhould be ſo careful
+<pb n="69" facs="tcp:38384:39"/>to get unfained Faith, this ſadly reproves ſuch as neglect it, and continue in ſin, though they have Parents that hate ſin; how many ſuch are there! If there be any weakneſs in their Parents, they will Imi<g ref="char:EOLhyphen"/>tate them in that, but never look after their good; they ſlight the Mercy of having good Parents, as if it was of no value; hath God given you theſe Mercies and will you abuſe them? Are you ſo fair for Heaven, and will not you ſtrive to enter? God of<g ref="char:EOLhyphen"/>fers Heaven and will you re<g ref="char:EOLhyphen"/>fuſe it? There are three ways that I find in Scripture, and Experience, that the Children of godly Parents depart from God and abuſe this mercy, which I ſhall lay down, that
+<pb n="70" facs="tcp:38384:40"/>you may avoid them.</p>
+               <p n="1">1. <hi>Way,</hi> Where the Chil<g ref="char:EOLhyphen"/>dren of godly Parents do not prove godly, they often prove to be Mockers and Perſecu<g ref="char:EOLhyphen"/>tors of Godlineſs, ſee <hi>Gen.</hi> 21.9, 10. <hi>Iſhmael</hi> (the Son of Godly <hi>Abraham</hi>) mocked <hi>Iſaac;</hi> that is, perſecuted him: We have many ſad Ex<g ref="char:EOLhyphen"/>periences of this, and is it not a ſad thing to ſee perſons Edu<g ref="char:EOLhyphen"/>cated righteouſly, perſecute Religion? Certainly their condition is ſad: Take heed then of this.</p>
+               <p n="2">2. <hi>Way.</hi> When godly mens Children do not prove godly, they g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve themſelves to Worldly Pleaſures. <hi>Eſan</hi> the Son of godly <hi>Iſaac,</hi> ſold his Birthright for a meſs of Pot<g ref="char:EOLhyphen"/>tage, <hi>Gen.</hi> 25.31. How many
+<pb n="71" facs="tcp:38384:40"/>Examples have we of godly mens Children, ſelling Hea<g ref="char:EOLhyphen"/>ven and all their Priviledges for the pleaſures of this world, for that is to looſe everlaſting pleaſures, and to purchaſe e<g ref="char:EOLhyphen"/>verlaſting ſo row.</p>
+               <p n="3">3. <hi>Way.</hi> Many godly mens Children, not proving godly, do grow confident in their own righteouſneſs, and <hi>trust</hi> in their own gifts and privi<g ref="char:EOLhyphen"/>ledges, reſting in a Form of Godlineſs, without the power of it; we may ſay of many as of them, <hi>Rom.</hi> 10.3. <hi>For they being Ignorant of Gods Righ<g ref="char:EOLhyphen"/>teouſneſs, and going about to eſtabliſh their own Righteouſ<g ref="char:EOLhyphen"/>neſs, have not ſubmitted them<g ref="char:EOLhyphen"/>ſelves to the Righteouſneſs of God.</hi> It is Ignorance that makes any truſt in their own
+<pb n="72" facs="tcp:38384:41"/>Righteouſneſs, this we are all apt to, aſpecially ſuch as have the form of Godlineſs; therefore beware of this, and if thou art in any of theſe ways: Conſider theſe follow<g ref="char:EOLhyphen"/>ing partculars.</p>
+            </div>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="73" facs="tcp:38384:41"/>
+            <head>
+               <hi>CHAP. XIII.</hi> Fourteen <hi>Conſiderations;</hi> to the Children of <hi>God<g ref="char:EOLhyphen"/>ly Parents,</hi> that are un<g ref="char:EOLhyphen"/>godly.</head>
+            <p>
+               <hi>Conſid.</hi> 1. Let all the un<g ref="char:EOLhyphen"/>godly Children of godly Parents conſider, that God never rejected them, but they deſpiſed the Covenant, neither was there any neceſſity laid upon them, of departing from God.</p>
+            <p>
+               <hi>Conſid.</hi> 2. Let ſuch conſi<g ref="char:EOLhyphen"/>der that your own Conſcien<g ref="char:EOLhyphen"/>ces will condemn you, thoſe Conſciences of yours, that are now ſeared, will one day con<g ref="char:EOLhyphen"/>demn
+<pb n="74" facs="tcp:38384:42"/>you, and make you ſay (<hi>Prov.</hi> 5.12.) <hi>How have I hated Inſtruction; and my heart deſpiſed reproof?</hi>
+            </p>
+            <p>
+               <hi>Conſid.</hi> 3. That all theſe mercies, the Inſtructions, Ex<g ref="char:EOLhyphen"/>amples, and Ordinances, which thou enjoyeſt, will riſe up in Judgment againſt thee, and increaſe thy condemna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>Conſid.</hi> 4. Let the wicked Children of Good Parents conſider that they ſhall hard<g ref="char:EOLhyphen"/>ly eſcape a curſe here, for uſually ſuch as are bred in a godly manner, if they be wicked and perſecute Gods Children, or prophane, God overtakes them with ſome ſad Judgments here.</p>
+            <p>
+               <hi>Conſid.</hi> 5. However ſuch may eſcape here, they will be ſure
+<pb n="75" facs="tcp:38384:42"/>of the lowermoſt part of Hell hereafter, for ſuch (uſually) know much, <hi>And he that knoweth his Maſters will and doth it not, ſhall be beaten with many Stripes,</hi> Luke 12 49</p>
+            <p>
+               <hi>Conſid.</hi> 6. All men in their hearts will hate you, though wicked men endeavour to draw you to ſin, yet their Con<g ref="char:EOLhyphen"/>ſciences tell them that your Fathers ways were right, and and that you ſhould be as they were: Therefore when you grow Prophane, you will be hated, and ſlighted of all-</p>
+            <p>
+               <hi>Conſid.</hi> 7. That you once ſtood fair for Heaven? you had the means of Grace, and by ſin you have forfeited all your mercies, and choſe Hell rather then Heaven.</p>
+            <p>
+               <hi>Conſid.</hi> 8. Let ſuch con<g ref="char:EOLhyphen"/>ſider
+<pb n="76" facs="tcp:38384:43"/>the difference that will be between them and the god<g ref="char:EOLhyphen"/>ly Children of good <hi>Parents, The Lord receives them into inward Fellowſhip, ſo that they are Juſtified by Christ, San<g ref="char:EOLhyphen"/>ctified, and ſhall be glorified for ever; but the wicked bring themſelves under Condemna<g ref="char:EOLhyphen"/>tion, and are damned.</hi>
+            </p>
+            <p>
+               <hi>Conſi.</hi> 9. Conſider the O<g ref="char:EOLhyphen"/>dium that is put upon ſuch, they are called curſed; curſed <hi>Eſau</hi> and <hi>Iſhmael:</hi> But the godly Children of good Pa<g ref="char:EOLhyphen"/>rents are honoured; as <hi>Ti<g ref="char:EOLhyphen"/>mothy</hi> was, ſo <hi>Iſaac, Jacob,</hi> &amp;c.</p>
+            <p>
+               <hi>Conſid.</hi> 10. Let ſuch con<g ref="char:EOLhyphen"/>der the Promiſes that are made to thoſe that are good Children, that receive Inſtru<g ref="char:EOLhyphen"/>ction, they are bleſſed, <hi>Prov.</hi>
+               <pb n="77" facs="tcp:38384:43"/>23.28. He that regardeth re<g ref="char:EOLhyphen"/>proof ſhall be honoured, yea, they that fear God, are bleſ<g ref="char:EOLhyphen"/>ſed for ever, but the reſt ſhall be accurſed and aſhamed, <hi>Prov.</hi> 23.28.</p>
+            <p>
+               <hi>Conſid.</hi> 11. That if you that have had ſo much means of Grace prove wicked, that none will pitty you when you are in miſery.</p>
+            <p>
+               <hi>Conſid.</hi> 12. Let ſuch con<g ref="char:EOLhyphen"/>ſider what a Bleſſed Founda<g ref="char:EOLhyphen"/>tion they have to build upon, they have Bleſſed Promiſes, Inſtructions, Examples: Therefore if they prove wicked, it muſt needs be very ſad.</p>
+            <p>
+               <hi>Conſid.</hi> 13. Let ſuch con<g ref="char:EOLhyphen"/>ſider what a mercy it is to have ſuch Parents, you might have had wicked, but you had
+<pb n="78" facs="tcp:38384:44"/>Parents that were godly, and you have heard what a mercy it is, and how dare you to a<g ref="char:EOLhyphen"/>buſe it?</p>
+            <p>
+               <hi>Conſid.</hi> 14. How joyful a thing it would be to your Pa<g ref="char:EOLhyphen"/>rents to ſee you fearing God; and what a grief and trouble it is to their Souls, to ſee you walking in ſin, and un-recon<g ref="char:EOLhyphen"/>ciled to God: and if you have any Ingenuity in you, ſtrive to be Holy, that you may re<g ref="char:EOLhyphen"/>joyce your Parents hearts. A fooliſh (or a wicked) Child is a grief to his Father, and a bitterneſs to her that bare him.</p>
+         </div>
+         <div n="14" type="chapter">
+            <pb n="79" facs="tcp:38384:44"/>
+            <head>
+               <hi>CHAP. XIV.</hi> Some Directions to ſuch, that they may come to be Godly.</head>
+            <p>I Hope by this time, that you are reſolved to get the ſame unfained faith with your Pa<g ref="char:EOLhyphen"/>rents: And that you may im<g ref="char:EOLhyphen"/>prove this mercy, I ſhall pro<g ref="char:EOLhyphen"/>poſe theſe few Direction.</p>
+            <div n="1" type="direction">
+               <head>
+                  <hi>Direction</hi> 1.</head>
+               <p>Let ſuch Children of God<g ref="char:EOLhyphen"/>ly Parents as would receive good by the mercy, highly eſteem the perſons and good<g ref="char:EOLhyphen"/>neſs of their Parents; elſe they are not like to get good by them.</p>
+            </div>
+            <div n="2" type="direction">
+               <pb n="80" facs="tcp:38384:45"/>
+               <head>
+                  <hi>Direction</hi> 2.</head>
+               <p>Let your ears and hearts be opened to receive their In<g ref="char:EOLhyphen"/>ſtructions, and be not weary to be inſtructed.</p>
+            </div>
+            <div n="3" type="direction">
+               <head>
+                  <hi>Direction</hi> 3.</head>
+               <p>Pray earneſtly that God would bleſs the means that your Parents uſe for your good, and ſanctifie the mercy to you.</p>
+            </div>
+            <div n="4" type="direction">
+               <head>
+                  <hi>Direction</hi> 4.</head>
+               <p>Lay hold upon the Promi<g ref="char:EOLhyphen"/>ſes that are made to the Seed of the Righteous, and to Pa<g ref="char:EOLhyphen"/>rents that uſe means to do their children good, and plead them with God.</p>
+            </div>
+            <div n="5" type="direction">
+               <head>
+                  <hi>Direction</hi> 5.</head>
+               <p>Get a ſight of your ſinful<g ref="char:EOLhyphen"/>neſs,
+<pb n="81" facs="tcp:38384:45"/>and never reſt till you are waſhed in the blood of Chriſt.</p>
+            </div>
+            <div n="6" type="direction">
+               <head>
+                  <hi>Direction</hi> 6.</head>
+               <p>Examine the inſtructions and practiſes of thy <hi>Parents,</hi> by the word of God, and re<g ref="char:EOLhyphen"/>ceive them upon that ac<g ref="char:EOLhyphen"/>count. For,</p>
+               <p n="1">1. Gods Word is the Ob<g ref="char:EOLhyphen"/>ject of Divine Faith.</p>
+               <p n="2">2. When temptation comes, all that we have received, if not founded on Divine Au<g ref="char:EOLhyphen"/>thority, will fail.</p>
+               <p n="3">3. If we do not try them by the word of God, we ſhall be apt to take up their weak<g ref="char:EOLhyphen"/>neſſes as well as their good<g ref="char:EOLhyphen"/>neſs, their Errors as well as what is right: therefore try them by Gods Word, and
+<pb n="82" facs="tcp:38384:46"/>that will give them perfect authority.</p>
+            </div>
+            <div n="7" type="direction">
+               <head>
+                  <hi>Direction</hi> 7.</head>
+               <p>Inquire diligently after un<g ref="char:EOLhyphen"/>fained faith in Chriſt.</p>
+            </div>
+         </div>
+         <div n="15" type="chapter">
+            <pb n="83" facs="tcp:38384:46"/>
+            <head>
+               <hi>CHAP. XV.</hi> An <hi>Unfained Faith</hi> deſcri<g ref="char:EOLhyphen"/>bed, and the deſcription opened.</head>
+            <p>
+               <label>Queſtion.</label> 
+               <hi>HOw may I know whether my Faith be unfained?</hi>
+            </p>
+            <p>
+               <label>Anſwer.</label> I ſhall anſwer it by giving you a deſcription of unfained faith.</p>
+            <div type="description">
+               <head>Deſcription.</head>
+               <p>An unfained faith is a grace wrought by the Spirit of God in the Soul of a perſon, where<g ref="char:EOLhyphen"/>by the Soul apprehends the Lord Jeſus Chriſt, as a wil<g ref="char:EOLhyphen"/>ling
+<pb n="84" facs="tcp:38384:47"/>and ſufficient Saviour, and relies upon him for the pardon of his ſins, and ever<g ref="char:EOLhyphen"/>laſting Salvation.</p>
+               <p>Now try your Faith by this:</p>
+               <p n="1">1. Is your faith a Grace wrought by the Spirit of God? Or is it a thing flow<g ref="char:EOLhyphen"/>ing from your Nature? If you have not received your faith from God by a ſuperna<g ref="char:EOLhyphen"/>tural work, it is not unfai<g ref="char:EOLhyphen"/>ned; for faith is the gift of God, <hi>Epheſ.</hi> 2.8. <hi>For by Grace are ye ſaved, through Faith, and that not of your ſelves, for it is the Gift of God.</hi>
+               </p>
+               <p n="2">2. Is it wrought in the Soul? That is not Faith that is only in the mouth, but it muſt be in the heart.</p>
+               <p n="3">3. The Object of Unfained
+<pb n="85" facs="tcp:38384:47"/>faith, is the Lord Jeſus Chriſt; If you believe in any thing elſe, it will not do.</p>
+               <p n="4">4. An Unfained Faith ap<g ref="char:EOLhyphen"/>prehends the Lord Jeſus as a willing and ſufficient Saviour; we can never truſt in him, un<g ref="char:EOLhyphen"/>leſs we apprehend him ſo.</p>
+               <p n="5">5. A relying on him as ſuch, and a truſting in him, and laying hold of his mercies.</p>
+               <p>Now you muſt ſee that you be real and ſincere in this, which may be diſcovered, for Faith carries an evidence with it.</p>
+            </div>
+         </div>
+         <div n="16" type="chapter">
+            <pb n="86" facs="tcp:38384:48"/>
+            <head>
+               <hi>CHAP. XVI.</hi> The true Signs and Chara<g ref="char:EOLhyphen"/>cters of an <hi>Unfained Faith.</hi>
+            </head>
+            <p>I Am now come to the laſt Obſervation from the words:</p>
+            <p>
+               <hi>Obſerv. An unfained Faith diſcovers It ſelf to our ſelves and others.</hi> So <hi>Paul</hi> was perſwaded of <hi>Timothy's</hi> faith: Unfained Faith diſco<g ref="char:EOLhyphen"/>vers it ſelf to our own Souls by theſe effects:</p>
+            <p n="1">1 <hi>Effect.</hi> An unfained faith brings peace, ſatisfaction and joy with it to the Soul, <hi>Rom.</hi> 5.2. <hi>By whom alſo ye have
+<pb n="87" facs="tcp:38384:48"/>acceſs by faith into this grace wherein ye ſtand, and rejoyce in the hope of the glory of God.</hi> Rom. 14.17. <hi>But the King<g ref="char:EOLhyphen"/>dom of God is not in meat and drink, but Righteouſneſs and Peace, and Joy in the holy Ghoſt;</hi> by Kingdom is meant the ſtate of Grace.</p>
+            <p n="2">2 <hi>Effect.</hi> Wherever there is ſincere faith, it works love in the Soul to God and all his Ordinances, Ways, &amp; People. <hi>Gal</hi> 5.6. <hi>Faith which worketk by Love.</hi>
+            </p>
+            <p n="3">3 <hi>Effect.</hi> An unhypocriti<g ref="char:EOLhyphen"/>cal faith, or a ſincere faith, without diſſimulation, fills the Soul with zeal for Chriſt and his ways, that the Soul cannot endure to ſee them a<g ref="char:EOLhyphen"/>buſed, or to hear them evil ſpoken of.</p>
+            <pb n="88" facs="tcp:38384:49"/>
+            <p n="4">4 <hi>Effect.</hi> An unfained faith begets a real hatred in the Soul to all ſin and iniquity.</p>
+            <p n="5">5 <hi>Effect.</hi> A ſincere faith be<g ref="char:EOLhyphen"/>gets an inward delight &amp; plea<g ref="char:EOLhyphen"/>ſure in the Soul, in Gods ways and Ordinances: <hi>Pſal.</hi> 119.97. <hi>O how love I thy Law! It is my meditation all the day.</hi>
+            </p>
+            <p>An unfained Faith diſco<g ref="char:EOLhyphen"/>vers it ſelf to others by theſe Signs:</p>
+            <p n="1">1 <hi>Sign.</hi> An unfained faith makes the perſon that hath it, conſtantly own &amp; appear for Chriſt and his ways.</p>
+            <p n="2">2 <hi>Sign.</hi> An unfained Belie<g ref="char:EOLhyphen"/>ver highly prizeth Chriſt, and all that is his.</p>
+            <p n="3">3 <hi>Sign.</hi> Unfained faith diſ<g ref="char:EOLhyphen"/>covers it ſelf by a conformity to Chriſts will, which is 1. Uni<g ref="char:EOLhyphen"/>verſal to all his will, 2. Readily
+<pb n="89" facs="tcp:38384:49"/>he need not be conſtrained to obedience, 3. Conſtantly, in all places and companies, and at all times.</p>
+            <p n="4">4 <hi>Sign.</hi> Where there is an unfained faith, there is a wil<g ref="char:EOLhyphen"/>lingneſs to ſuffer for Chriſt.</p>
+            <p>By theſe things you may try whether your faith be unfai<g ref="char:EOLhyphen"/>ned or no.</p>
+            <div type="application">
+               <head>
+                  <g ref="char:V">Ʋ</g>SE.</head>
+               <p>Try your faith by theſe for<g ref="char:EOLhyphen"/>mer effects, and never be ſa<g ref="char:EOLhyphen"/>tisfied till you have an unfai<g ref="char:EOLhyphen"/>ned faith: Take that advice in 2 <hi>Pet.</hi> 1.5, 6, 7, 8. <hi>Giving all diligence, adde to your Faith Vertue, and to Vertue Know<g ref="char:EOLhyphen"/>ledge, and to Knowldge Tem<g ref="char:EOLhyphen"/>perance, and to Temperance Patience, and to Patience Godlineſs, and to Godlineſs
+<pb n="90" facs="tcp:38384:50"/>Brotherly kindneſs, and to Bro<g ref="char:EOLhyphen"/>therly kindneſs Charity: for if theſe things be in you and abound, they will make you that you ſhall neither be bar<g ref="char:EOLhyphen"/>ren nor unfruitful in the knowledge of the Lord Jeſus.</hi>
+               </p>
+               <p>Now to Him be all Glory AMEN.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:38384:50"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
